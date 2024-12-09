@@ -1,1 +1,2 @@
 ipython==8.30.0
+black
